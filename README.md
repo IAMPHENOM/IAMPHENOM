@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IAMPHENOM
-- 👀 I’m interested in CRICKET,CHESS,MUSIC,AI,DATASCIENCE,C AND OYTHON
+- 👀 I’m interested in CRICKET,CHESS,MUSIC,AI,DATASCIENCE,C AND PYTHON
 - 🌱 I’m currently learning C AND AI
 - 💞️ I’m looking to collaborate on C
 - 📫 How to reach me 
